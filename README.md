@@ -1,4 +1,4 @@
-# LSTM_peptide generation in Jupyter-notebook.
+# LSTM model for peptide sequence generation.
 Create LSTM_peptide conda environment.
 conda create -n LSTM_peptide
 Install requirements mentioned in requirement.txt file in conda environment.
